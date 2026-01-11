@@ -1,0 +1,25 @@
+Cybersecurity Fundamentals Learning Path
+https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6436d483498e3a6ee9cbf922&u=57118729
+
+Career Essentials in Cybersecurity (Microsoft & LinkedIn)
+https://www.linkedin.com/learning/paths/career-essentials-in-cybersecurity-by-microsoft-and-linkedin
+
+Build Your Cybersecurity Awareness Skills (LinkedIn Learning Path)
+https://www.linkedin.com/learning/paths/build-your-cybersecurity-awareness-skills
+
+Individual Cybersecurity Awareness Courses
+https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022
+
+
+
+binary digits 
+
+1 means on/yes
+0 means off/no
+
+
+what is bitrate?
+>The number of bits transmitted each second is called the bitrate.
+
+What is a vectors?
+>vectors use an image showing points
