@@ -1,18 +1,6 @@
 Cybersecurity Fundamentals Learning Path
 https://www.linkedin.com/learning/computer-science-principles-digital-information/welcome?contextUrn=urn%3Ali%3AlyndaLearningPath%3A6436d483498e3a6ee9cbf922&u=57118729
 
-Career Essentials in Cybersecurity (Microsoft & LinkedIn)
-https://www.linkedin.com/learning/paths/career-essentials-in-cybersecurity-by-microsoft-and-linkedin
-
-Build Your Cybersecurity Awareness Skills (LinkedIn Learning Path)
-https://www.linkedin.com/learning/paths/build-your-cybersecurity-awareness-skills
-
-Individual Cybersecurity Awareness Courses
-https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022
-
-computer sicinece
-
-
 
 binary digits 
 
@@ -26,11 +14,3 @@ what is bitrate?
 What is a vectors?
 >vectors use an image showing points
 
-rm -rf W7 W9 ask assignment college labwork
-
-         backup      final
-changing direct from direct 
-ronit@LAPTOP-RL115RMC:~/project/backup$ cd project/docs/final
--bash: cd: project/docs/final: No such file or directory
-ronit@LAPTOP-RL115RMC:~/project/backup$ cd ../docs/final
-ronit@LAPTOP-RL115RMC:~/project/docs/final$

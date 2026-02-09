@@ -1,0 +1,10 @@
+Career Essentials in Cybersecurity (Microsoft & LinkedIn)
+https://www.linkedin.com/learning/paths/career-essentials-in-cybersecurity-by-microsoft-and-linkedin
+
+What is Malware?
+>Malware is malicious software designed to harm your computer or steal your information.
+
+Two functions of Malware:
+1. System Vulnerabilities (it flows in hardware and software)
+2. Social Engineering ( it tells users to download their app so that the hacker can easily hack their data  )
+
