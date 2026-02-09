@@ -10,6 +10,8 @@ https://www.linkedin.com/learning/paths/build-your-cybersecurity-awareness-skill
 Individual Cybersecurity Awareness Courses
 https://www.linkedin.com/learning/cybersecurity-awareness-cloud-security-2022
 
+computer sicinece
+
 
 
 binary digits 
@@ -23,3 +25,12 @@ what is bitrate?
 
 What is a vectors?
 >vectors use an image showing points
+
+rm -rf W7 W9 ask assignment college labwork
+
+         backup      final
+changing direct from direct 
+ronit@LAPTOP-RL115RMC:~/project/backup$ cd project/docs/final
+-bash: cd: project/docs/final: No such file or directory
+ronit@LAPTOP-RL115RMC:~/project/backup$ cd ../docs/final
+ronit@LAPTOP-RL115RMC:~/project/docs/final$
